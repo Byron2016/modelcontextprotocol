@@ -604,32 +604,32 @@
   "redirects": [
     {
       "source": "/tutorials/building-a-client",
-      "destination": "/docs/develop/build-client"
+      "destination": "/docs/en/develop/build-client"
     },
     {
       "source": "/quickstart",
-      "destination": "/docs/develop/build-server"
+      "destination": "/docs/en/develop/build-server"
     },
     {
       "source": "/specification/latest",
-      "destination": "/specification/2025-06-18",
+      "destination": "/docs/en/specification/2025-06-18",
       "permanent": false
     },
     {
       "source": "/docs/concepts/architecture",
-      "destination": "/docs/learn/architecture"
+      "destination": "/docs/en/learn/architecture"
     },
     {
       "source": "/docs/concepts/elicitation",
-      "destination": "/specification/2025-06-18/client/elicitation"
+      "destination": "/docs/en/specification/2025-06-18/client/elicitation"
     },
     {
       "source": "/docs/concepts/prompts",
-      "destination": "/specification/2025-06-18/server/prompts"
+      "destination": "docs/en/specification/2025-06-18/server/prompts"
     },
     {
       "source": "/docs/concepts/resources",
-      "destination": "/specification/2025-06-18/server/resources"
+      "destination": "docs/en/specification/2025-06-18/server/resources"
     },
     {
       "source": "/docs/concepts/roots",
@@ -637,31 +637,31 @@
     },
     {
       "source": "/docs/concepts/sampling",
-      "destination": "/specification/2025-06-18/client/sampling"
+      "destination": "/docs/en/specification/2025-06-18/client/sampling"
     },
     {
       "source": "/docs/concepts/tools",
-      "destination": "/specification/2025-06-18/server/tools"
+      "destination": "/docs/en/specification/2025-06-18/server/tools"
     },
     {
       "source": "/docs/concepts/transports",
-      "destination": "/specification/2025-06-18/basic/transports"
+      "destination": "/docs/en/specification/2025-06-18/basic/transports"
     },
     {
       "source": "/docs/tools/debugging",
-      "destination": "/legacy/tools/debugging"
+      "destination": "/docs/en/legacy/tools/debugging"
     },
     {
       "source": "/legacy/tools/inspector",
-      "destination": "/docs/tools/inspector"
+      "destination": "/docs/en/tools/inspector"
     },
     {
       "source": "/introduction",
-      "destination": "/docs/getting-started/intro"
+      "destination": "/docs/en/getting-started/intro"
     },
     {
       "source": "/docs/concepts",
-      "destination": "/docs/learn/architecture"
+      "destination": "/docs/en/learn/architecture"
     },
     {
       "source": "/docs/tutorials/use-remote-mcp-server",
@@ -669,19 +669,19 @@
     },
     {
       "source": "/quickstart/user",
-      "destination": "/docs/develop/connect-local-servers"
+      "destination": "/docs/en/develop/connect-local-servers"
     },
     {
       "source": "/quickstart/server",
-      "destination": "/docs/develop/build-server"
+      "destination": "/docs/en/develop/build-server"
     },
     {
       "source": "/quickstart/client",
-      "destination": "/docs/develop/build-client"
+      "destination": "/docs/en/develop/build-client"
     },
     {
       "source": "/development/contributing",
-      "destination": "/community/communication"
+      "destination": "/docs/en/community/communication"
     }
   ],
   "contextual": {
